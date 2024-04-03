@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
-/*real time image processing*/
+//*real time image processing*//
 using namespace cv;
 using namespace std;
 
